@@ -39,7 +39,7 @@ namespace mesa_de_trabalho
 
         private void ImprimirResultadoFinal()
         {
-            Console.Write($"Olá {nome}, você nasceu em {anoNascimento}");
+            Console.WriteLine($"Olá {nome}, você nasceu em {anoNascimento}");
         }
     }
 }
