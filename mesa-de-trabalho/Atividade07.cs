@@ -2,6 +2,9 @@
 {
     internal class Atividade07
     {
+        public void Inicio()
+        {
 
+        }
     }
 }

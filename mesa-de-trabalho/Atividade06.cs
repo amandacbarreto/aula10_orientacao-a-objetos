@@ -31,13 +31,13 @@ namespace mesa_de_trabalho
             idade = int.Parse(Console.ReadLine());
         }
 
-        public void PegarNome()
+        private void PegarNome()
         {
             Console.Write("Digite seu nome: ");
             nome = Console.ReadLine();
         }
 
-        public void ImprimirResultadoFinal()
+        private void ImprimirResultadoFinal()
         {
             Console.Write($"Olá {nome}, você nasceu em {anoNascimento}");
         }
