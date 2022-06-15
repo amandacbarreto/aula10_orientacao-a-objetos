@@ -11,10 +11,10 @@
         public void Inicio()
         {
             PegarValorDaCompra();
-            converterRealParaDolar(valorDaCompraEmReais, cotacaoDoDolarHoje);
-            AvaliarACompra();
+            ConverterRealParaDolar(valorDaCompraEmReais, cotacaoDoDolarHoje);
+            ValidarACompra();
         }
-        public void converterRealParaDolar(double valorDaCompraEmReais, double cotacaoDoDolarHoje)
+        public void ConverterRealParaDolar(double valorDaCompraEmReais, double cotacaoDoDolarHoje)
         {
             valorDaCompraEmDolar = valorDaCompraEmReais / cotacaoDoDolarHoje;
         }
@@ -23,7 +23,7 @@
             Console.WriteLine("Digite o valor da compra: ");
             valorDaCompraEmReais = double.Parse(Console.ReadLine());
         }
-        public void AvaliarACompra()
+        public void ValidarACompra()
         {
             if (valorDaCompraEmDolar < VALOR_MINIMO_DE_COMPRA_EM_DOLAR)
             {

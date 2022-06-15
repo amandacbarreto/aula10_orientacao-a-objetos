@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace mesa_de_trabalho
+﻿namespace mesa_de_trabalho
 {
     public class Atividade06
     {
@@ -27,7 +21,7 @@ namespace mesa_de_trabalho
 
         private void PegarIdade()
         {
-            Console.Write("Digite sua idade: ");
+            Console.WriteLine("Digite sua idade: ");
             idade = int.Parse(Console.ReadLine());
         }
 
