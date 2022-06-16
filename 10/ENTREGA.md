@@ -55,7 +55,7 @@ https://github.com/ArielLopes888/Aula10
 - Lais Baltar
 - Mayara Abreu
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/isabelalvescatao/aula10-Introducao_a_programacao_orientada_a_objeto)
 
 #### Descrição/Observação (Opcional)
 

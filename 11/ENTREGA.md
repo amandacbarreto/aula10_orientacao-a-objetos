@@ -39,7 +39,9 @@
 - Sabrina Helena Ferreira
 - Salomão Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sekimzero/Aula11-Aplicando_Atribuicao)
+
+**Obs: Exercicio realizado pelo LiveShare**
 
 #### Descrição/Observação (Opcional)
 
@@ -69,9 +71,13 @@
 - Maíra Heloisa Silva Oliveira
 - Matheus Texeira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/mairaholi/aula11)
 
 #### Descrição/Observação (Opcional)
+- cassiofreitas
+  - método usado no estudo: Matheus criou a classe principal e os demais fizeram as heranças;
+  - com o básico pronto, seguimos os itens da aula e observamos, em grupo, os efeitos das mudanças que eram feitas nos códigos (erros, warnings etc).
+  - modificamos o exercício para ficar mais próximo da teoria: Classe principal: Formas => Heranças: Círculo, Quadrado e Retângulo.
 
 ----
 
@@ -81,10 +87,10 @@
 
 - Carla Rani
 - Caroliny Cagnoni
-- Iamsmin Vivanco
+- Iasmin Vivanco
 - Isabel Catão
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/isabelalvescatao/aula11-POO)
 
 #### Descrição/Observação (Opcional)
 
