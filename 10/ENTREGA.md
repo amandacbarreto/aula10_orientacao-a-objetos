@@ -70,7 +70,7 @@ https://github.com/ArielLopes888/Aula10
 - Maira Heloisa Silva Oliveira
 - Renata Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/amandacbarreto/aula10_orientacao-a-objetos/tree/main/mesa-de-trabalho)
 
 #### Descrição/Observação (Opcional)
 
